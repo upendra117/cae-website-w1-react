@@ -1,0 +1,215 @@
+.container {
+  width: 100%;
+  display: block;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.container01 {
+  width: 100%;
+  height: 650px;
+  display: flex;
+  position: static;
+  flex-wrap: nowrap;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: flex-start;
+  background-image: url("https://images.unsplash.com/photo-1587736462879-c9593d8692e7?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjkxMzIxfQ&w=1000");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.container02 {
+  width: 1175px;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  margin-bottom: 200px;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.container03 {
+  width: 200px;
+  height: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-right: auto;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.container04 {
+  display: flex;
+  position: static;
+  flex-basis: auto;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.navlink {
+  display: contents;
+}
+.image {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.container05 {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  align-items: center;
+  margin-left: auto;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.text {
+  color: #f3eded;
+  margin-right: 10px;
+}
+.icon {
+  fill: #e9e6ec;
+  width: 24px;
+  height: 24px;
+}
+.container06 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.image1 {
+  margin-bottom: 20px;
+}
+.container07 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #ffffff;
+}
+.container08 {
+  left: 0px;
+  width: 1100px;
+  height: 73px;
+  display: flex;
+  position: relative;
+  flex-wrap: nowrap;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.navlink1 {
+  display: contents;
+}
+.icon1 {
+  fill: #4c4e4e;
+  width: 41px;
+  height: 41px;
+  margin-right: 20px;
+}
+.container09 {
+  color: #0c0b0b;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 20px;
+  text-align: center;
+  align-items: center;
+  font-weight: bold;
+  flex-direction: row;
+  text-transform: uppercase;
+  justify-content: center;
+}
+.span {
+  color: #030000;
+  font-size: 18px;
+  font-weight: normal;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-decoration: none;
+}
+.span1 {
+  color: #030000;
+  font-size: 18px;
+  font-weight: normal;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-decoration: none;
+}
+.span2 {
+  color: #030000;
+  font-size: 18px;
+  font-weight: normal;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-decoration: none;
+}
+.span3 {
+  color: #030000;
+  font-size: 18px;
+  font-weight: normal;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-decoration: none;
+}
+.span4 {
+  color: #030000;
+  font-size: 18px;
+  font-weight: normal;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-decoration: none;
+}
+.span5 {
+  color: #030000;
+  font-size: 18px;
+  font-weight: normal;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-decoration: none;
+}
+.span6 {
+  color: #030000;
+  font-size: 18px;
+  font-weight: normal;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-decoration: none;
+}
+.container10 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-left: auto;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.image2 {
+  width: 100px;
+}
+.container11 {
+  width: 100%;
+  height: 546px;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #ffffff;
+}
+.container12 {
+  width: 200px;
+  height: 100px;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgba(120, 120, 120, 0.4);
+}

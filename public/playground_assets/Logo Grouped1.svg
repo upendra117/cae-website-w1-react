@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" width="178" height="81.928" viewBox="0 0 178 81.928">
+  <g id="Logo_Grouped1" data-name="Logo Grouped1" transform="translate(-183 -23)">
+    <g id="Logo" transform="translate(227.359 23)">
+      <path id="Path_1" data-name="Path 1" d="M998.829,634.291l23.547-23.676,10.792,10.671,11.883-11.883,13.116,13.006,12.96-12.645,17.805,17.8-17.994-11.713-11.437,8.027,18.1,18.088-32.549-22.322-32.313,22.4,17.916-18.61-8.449-5.547Z" transform="translate(-998.829 -609.402)" fill="#00a9e0"/>
+    </g>
+    <text id="CASCADE" transform="translate(272 82)" fill="#003c69" font-size="23" font-family="EurostileExtended-Black, Eurostile" font-weight="800" letter-spacing="0.1em"><tspan x="-88.343" y="0">CASCADE</tspan></text>
+    <text id="ENGINEERING" transform="translate(271.662 100.928)" fill="#00a9e0" font-size="15" font-family="Eurostile-ExtendedTwo, 'Eurostile #2'" letter-spacing="0.2em"><tspan x="-86.655" y="0">ENGINEERING</tspan></text>
+  </g>
+</svg>
